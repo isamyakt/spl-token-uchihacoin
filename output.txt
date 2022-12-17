@@ -1,0 +1,8 @@
+Current balance is 1000000000
+Token Mint: https://explorer.solana.com/address/nTUPS2BHs347MhqfKiuB3dj2U9zpFc7dsCrzwtafZzG?cluster=devnet
+Token Account: https://explorer.solana.com/address/8KPVA1NupbktgYo3AgVG7zpTcbJuHUUfSqTz259hzYoT?cluster=devnet
+Mint Token Transaction: https://explorer.solana.com/tx/F7bddteN4Z8gCK4UuJMHQU7KexEG7bythQKih48WChbNxM38Ax7tchdwfUsPCn4GUS1JKxVz1MmyLiaYcoGLUZJ?cluster=devnet
+Token Account: https://explorer.solana.com/address/E6X3gMspz6VpKqVgSp9vSdzrfafgvE8gZ9Sy8cAX3qHb?cluster=devnet
+Transfer Transaction: https://explorer.solana.com/tx/5rmaGDTz78vCrjECZVSL8wXmw2GyCW7LUKQnFBrMhiKqUymU7hSSRb4AeAtUEgRqgaMNhoPE4bFwS7ruhRmcTMBn?cluster=devnet
+Burn Transaction: https://explorer.solana.com/tx/2dP6QqmhfchPX6oVo4tLVUvYEnRHuYRvzYK7ApQ8fu6fUEodLaFdSqZeGdPyWzgHcWDLLsSp4Z3C39YahwRdsRPP?cluster=devnet
+Finished successfully
